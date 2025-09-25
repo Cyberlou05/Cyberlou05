@@ -13,8 +13,8 @@
 - 🎯 Next up: AWS Solutions Architect Associate, Terraform Associate, Kubernetes CKA  
 
 ## 📂 Projects & Study Guides  
-- [Security+ Notes](https://github.com/yourusername/SecurityPlus-Notes)  
-- [ITIL4 Foundation Notes](https://github.com/yourusername/ITIL4-Foundation-Notes)  
+- [Security+ Notes](https://github.com/Cyberlou05/Security-plus-notes)  
+- [ITIL4 Foundation Notes](https://github.com/Cyberlou05/ITIL-4-Foundation-Notes)  
 - More coming soon...  
 
 ## 🌎 About Me  
@@ -23,5 +23,5 @@
 - Goal: 115k+ Cloud & Security role by 2025  
 
 ## 📫 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- [GitHub](https://github.com/yourusername)  
+- [LinkedIn](www.linkedin.com/in/louish05)  
+- [GitHub](https://github.com/Cyberlou05)  
