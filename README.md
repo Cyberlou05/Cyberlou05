@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Louis  
 
-🚀 Aspiring Cloud & Security Engineer | ITIL4 + Security+ Certified | Future Chicago Tech Professional  
+🚀 Aspiring Cloud & Security Engineer | ITIL4 + Security+ Certified | Future Tech Professional  
 
 ## 🛠 Skills & Tools  
 - ☁️ AWS | Terraform | Kubernetes | Docker  
@@ -9,7 +9,7 @@
 
 ## 📚 Certifications  
 - ✅ CompTIA Security+  
-- ✅ ITIL 4 Foundation (in progress)  
+- ✅ ITIL 4 Foundation 
 - 🎯 Next up: AWS Solutions Architect Associate, Terraform Associate, Kubernetes CKA  
 
 ## 📂 Projects & Study Guides  
