@@ -18,9 +18,9 @@
 - More coming soon...  
 
 ## 🌎 About Me  
-- Moving to Chicago to break into Tech 🚦  
+- Have both hands on and enterprise experience 
 - Love NYC/Chicago city vibes 🏙️  
-- Goal: 115k+ Cloud & Security role by 2025  
+- Goal: 115k+ Cloud & Security role  
 
 ## 📫 Connect With Me  
 - [LinkedIn](www.linkedin.com/in/louish05)  
